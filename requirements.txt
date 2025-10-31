@@ -1,8 +1,9 @@
-torch
-transformers
-streamlit
-gdown
-scikit-learn
-tqdm
+torch==2.4.0
+transformers==4.44.2
 pandas
 numpy
+matplotlib
+gdown
+streamlit
+scikit-learn
+tqdm

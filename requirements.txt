@@ -1,7 +1,8 @@
-transformers==4.45.0
 torch
-pandas
-numpy
+transformers
+streamlit
+gdown
 scikit-learn
 tqdm
-streamlit
+pandas
+numpy
